@@ -1,0 +1,17 @@
+h1
+ { 
+   color: #EA970D;
+ }  
+/*sets the color of the font  */
+body
+  {
+    background-color: pink;
+  }
+.class1
+{
+  color: white;
+}
+.class2 
+{
+  color: blue;
+}
